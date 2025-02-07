@@ -7,4 +7,4 @@ Proviamo a modificare la nostra app Node, in modo da passare dal terminale una f
 Buon lavoro!*/
 
 
-console.log("Hello World");
+console.log("Hello Boolean");
